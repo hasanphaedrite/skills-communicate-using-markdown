@@ -4,3 +4,6 @@
 #### I wonder how small can we go?
 ##### This is so tiny!
 ###### Smalles H6 header
+
+I am adding an image lol:
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
